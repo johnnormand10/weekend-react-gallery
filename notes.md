@@ -6,11 +6,11 @@
         [π]path for
 
 [ ]Components
-    [ ]App
-    [ ]GalleryList
-    [ ]GalleryItem
-        [ ]single image
-        [ ]toggle
+    [π]App
+    [π]GalleryList
+    [π]GalleryItem
+        [π]single image
+        []toggle
             [ ]image
             [ ]description
-        [ ]like button
+        []like button
