@@ -10,7 +10,7 @@
     [π]GalleryList
     [π]GalleryItem
         [π]single image
-        []toggle
-            [ ]image
-            [ ]description
-        []like button 
+        [π]toggle
+            [π]image
+            [π]description
+        [π]like button 

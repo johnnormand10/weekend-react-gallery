@@ -20,9 +20,10 @@ function GalleryItem({image, like, handleClick, idClicked}) {
                     <h3>{image.title}</h3>
                     <div>{image.description}</div>
                 </div>
-            ): (
+            ) : (
                 <div></div>
             )}
+            
             <button onClick = {likeImage}>Like</button>
             <p> {image.likes} people have liked this image.</p>  
         </div>
