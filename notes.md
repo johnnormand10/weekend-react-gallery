@@ -1,9 +1,9 @@
-[ ] Add images into public/images
-    [ ]modify server/module/data.js
-        [ ]id
-        [ ]title
-        [ ]description
-        [ ]path for
+[π] Add images into public/images
+    [π]modify server/module/data.js
+        [π]id
+        [π]title
+        [π]description
+        [π]path for
 
 [ ]Components
     [ ]App
